@@ -23,7 +23,7 @@ Run the application to select your preferred shell environment effortlessly.
 Contributions are highly encouraged! Feel free to submit issues or pull requests to enhance the functionality.
 
 ## License
-This project is licensed under the MIT License. For more details, refer to the LICENSE file.
+This project is licensed under the MIT License. For more details, refer to the LICENSE.md file.
 
 ## Contact
 For inquiries or support, connect with us via [Telegram](https://t.me/VigilantPhantom) or [GitHub](https://github.com/githubuser772).
