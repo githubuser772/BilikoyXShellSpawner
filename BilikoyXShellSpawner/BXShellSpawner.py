@@ -13,10 +13,10 @@ logging.basicConfig(filename='shell_spawner.log', level=logging.INFO,
                     format='%(asctime)s:%(levelname)s:%(message)s')
 
 # Account links
-telegram = "https://t.me/bilikoy"
-github = "https://github.com/bilikoy"
-facebook = "https://facebook.com/bilikoy"
-whatsapp = "https://wa.me/bilikoy"
+telegram = "https://t.me/VigilantPhantom"
+github = "https://github.com/githubuser772"
+facebook = "https://facebook.com/" # Anonymous.
+whatsapp = "https://wa.me/" # Anonymouse.
 
 def clear_screen():
     os.system("cls" if os.name == "nt" else "clear")
