@@ -15,6 +15,7 @@ To install BilikoyX Shell Spawner, ensure you have Python installed on your syst
 Run the application to select your preferred shell environment effortlessly.
 
 ### Command-Line Options
+- `-h`: Help options.
 - `-s {nt,posix}`: Specify the shell type (Windows or Linux/MacOS).
 - `--support`: Show social media links for support.
 - `-b`: Print the banner to welcome users.
